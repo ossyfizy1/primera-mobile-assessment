@@ -20,9 +20,15 @@ These icons might not fit in to what is in the design but the focus is for you t
 
 
 
-## Screenshots
+### Screenshots
 
 <img src="screenshots/More%20light.png" alt="Light mode" width="200"/> <img src="screenshots/More%20dark.png" alt="Dark mode" width="200"/>
+
+
+### Figma File
+
+[Link to assessment figma design](https://www.figma.com/file/yzhdvHICb4gdsdhcyeMW3T/Primera-Mobile-Assessment?node-id=0%3A1&t=LyTqbGDaLREM4zWE-1)
+
 
 ### AREAS WE ARE LOOKING OUT FOR 
 * Code structuring 
@@ -38,6 +44,3 @@ e.g Ahmed Olanrewaju
 Candidate Email: 
 e.g aolanrewaju@primerabank.com
 
-### Figma File
-
-[Link to assessment figma design](https://www.figma.com/file/yzhdvHICb4gdsdhcyeMW3T/Primera-Mobile-Assessment?node-id=0%3A1&t=LyTqbGDaLREM4zWE-1)
