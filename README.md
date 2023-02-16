@@ -4,11 +4,8 @@ Follow the instruction in the provided
 
 ## Screenshots
 <img src="screenshots/More%20light.png" alt="Light mode" width="200"/>
-![Light mode](screenshots/More%20light.png) 
-
 
 <img src="screenshots/More%20dark.png" alt="Dark mode" width="200"/>
-![Dark mode](screenshots/More%20dark.png)
 
 ### Candidate Info
 > Replace the placeholder information with your name and email.
