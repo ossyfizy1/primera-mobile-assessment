@@ -4,11 +4,13 @@ Follow the instruction in the provided
 
 
 ### Candidate Info
+> Replace the placeholder information with your name and email.
 
 Canditate Name: 
+e.g Ahmed Olanrewaj
 
 Candidate Email: 
-
+e.g aolanrewaju@primerabank.com
 
 ### Figma File
 
