@@ -3,10 +3,7 @@
 Follow the instruction in the provided 
 
 ## Screenshots
-![Light mode](screenshots/More%20light.png)
-
-
-![Dark mode](screenshots/More%20dark.png)
+![Light mode](screenshots/More%20light.png =x100) ![Dark mode](screenshots/More%20dark.png =x100)
 
 ### Candidate Info
 > Replace the placeholder information with your name and email.
