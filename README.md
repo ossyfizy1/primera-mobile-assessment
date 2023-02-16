@@ -39,8 +39,8 @@ These icons might not fit in to what is in the design but the focus is for you t
 > Replace the placeholder information with your name and email.
 
 Canditate Name: 
-e.g Ahmed Olanrewaju
+e.g John Doe
 
 Candidate Email: 
-e.g aolanrewaju@primerabank.com
+e.g johndoe@example.com
 
