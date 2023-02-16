@@ -10,7 +10,7 @@ Follow the instruction in the provided
 > Replace the placeholder information with your name and email.
 
 Canditate Name: 
-e.g Ahmed Olanrewaj
+e.g Ahmed Olanrewaju
 
 Candidate Email: 
 e.g aolanrewaju@primerabank.com
