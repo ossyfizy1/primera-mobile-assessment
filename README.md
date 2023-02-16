@@ -2,6 +2,11 @@
 
 Follow the instruction in the provided 
 
+## Screenshots
+![Light mode](screenshots/More%20light.png)
+
+
+![Dark mode](screenshots/More%20dark.png)
 
 ### Candidate Info
 > Replace the placeholder information with your name and email.
